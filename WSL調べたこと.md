@@ -6,7 +6,7 @@ WSL調べたことメモ
 * そのためにubuntu on WSLとwinのディレクトリ対応関係が知りたい = 調べてみた
 
 # 結果
-`/` = `C:\Users\tomoyasu\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\`
+`/` = `C:\Users\<UserName>\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\`
 解読してみると
 `/` = `C:\Users\<UserName>\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_<ランダム英数字13桁>\LocalState\rootfs\`
 
